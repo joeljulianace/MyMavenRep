@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="USER" name="com.learntestng.AppTest" tests="1" failures="0" timestamp="15 Aug 2016 09:24:14 GMT" time="0.028" errors="0">
+  <testcase name="sendMail" time="0.017" classname="com.learntestng.AppTest"/>
+</testsuite>

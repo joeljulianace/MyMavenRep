@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2015-08-09T15:44:03Z" finished-at="2015-08-09T15:44:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2015-08-09T15:44:03Z" finished-at="2015-08-09T15:44:03Z">
+      <class name="com.learntestng.AppTest">
+        <test-method status="PASS" signature="sendMail()" name="sendMail" duration-ms="13" started-at="2015-08-09T15:44:03Z" finished-at="2015-08-09T15:44:03Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
